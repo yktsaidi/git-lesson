@@ -1,0 +1,4 @@
+* Create a repo (done)
+* Add a file to the repo (done)
+* Send it to GitHub
+* Pull from a remote source
